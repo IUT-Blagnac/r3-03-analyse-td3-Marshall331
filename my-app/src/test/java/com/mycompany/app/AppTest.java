@@ -4,7 +4,6 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-// difference de l'origine
 /**
  * Unit test for simple App.
  */
